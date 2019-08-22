@@ -9,3 +9,8 @@ PTAM (Parallel Tracking and Mapping) re-released under GPLv3.
 Large-Scale Direct Monocular SLAM
 - https://github.com/xdspacelab/openvslam
 a monocular, stereo, and RGBD visual SLAM framework
+
+
+## depth
+- https://github.com/dwofk/fast-depth
+pytorch implementation of ICRA 2019 "FastDepth: Fast Monocular Depth Estimation on Embedded Systems" 
